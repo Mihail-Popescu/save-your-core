@@ -17,3 +17,4 @@ To run this project, you need:
 <img src="https://github.com/user-attachments/assets/5e8222d6-7c1b-4940-b09e-847b5ddf3165" width="800" height="398">
 <img src="https://github.com/user-attachments/assets/4433a784-69b4-4007-ae85-ec1bd1993913" width="800" height="398">
 <img src="https://github.com/user-attachments/assets/2c81c113-4ecc-4d35-8406-3958c4c89e4b" width="800" height="398">
+<img src="https://github.com/user-attachments/assets/e99117e0-108d-47f4-9e42-4ebbf1f1dc0e" width="800" height="398">
