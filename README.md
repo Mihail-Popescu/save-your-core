@@ -1,4 +1,4 @@
-## About  
+## Overview  
 This game was developed as a second year project for the summer. **Save Your Core** is a Unity game designed for Android devices. It features a multi-level gameplay experience that combines platforming and adventure elements. Two levels have been fully completed, but the game is designed to be expandable with additional levels. 
 
 ## Requirements
